@@ -10,3 +10,6 @@ Start the docker compose
 docker compose up 
 
 ```
+
+For connecting to kibana username is `elastic` and the password can be found on the .env. 
+

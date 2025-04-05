@@ -3,7 +3,7 @@
 
 ## Development 
 
-- start the docker compose 
+Start the docker compose 
 
 ```bash 
 

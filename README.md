@@ -6,5 +6,7 @@
 - start the docker compose 
 
 ```bash 
+
 docker compose up 
+
 ```

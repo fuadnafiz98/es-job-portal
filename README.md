@@ -1,15 +1,13 @@
-# Elastic Search based Job Portal 
+# Elastic Search based Job Portal
 
+## Development
 
-## Development 
+Start the docker compose
 
-Start the docker compose 
+```bash
 
-```bash 
-
-docker compose up 
+docker compose up
 
 ```
 
-For connecting to kibana username is `elastic` and the password can be found on the .env. 
-
+For connecting to kibana username is `elastic` and the password can be found on the .env.
